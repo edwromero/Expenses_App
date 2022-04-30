@@ -1,16 +1,35 @@
 # expenses_app
 
-A new Flutter project.
+A little look at what an expense application would be. In this journey I have focused on functionality, trying to specify everything that "Function" refers to. 
 
-## Getting Started
+What is applied:
 
-This project is a starting point for a Flutter application.
+-Basic functions of the application (Float Button,AppBarButton,calendar, add item, remove item)
 
-A few resources to get you started if this is your first Flutter project:
+-Recognition of time and date.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-Calendar display button
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Calendar with visualization of daily and weekly expenses.
+
+-AppRecicleCycle.
+
+-Cupertino class.
+
+-Responsiveness in general.
+
+Next steps:
+
+100% responsiveness
+
+Login page and registration of new users.
+
+Sidebar with user options and general settings.
+
+
+VERTICAL MODE:
+![GIF](https://github.com/edwromero/Expenses_App/blob/main/VERTICAL.gif).
+
+
+HORIZONTAL MODE:
+![GIF](https://github.com/edwromero/Expenses_App/blob/main/HORIZONTAL.gif).
