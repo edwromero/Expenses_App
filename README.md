@@ -27,9 +27,11 @@ Login page and registration of new users.
 Sidebar with user options and general settings.
 
 
-VERTICAL MODE:
+## VERTICAL MODE:
+
 ![GIF](https://github.com/edwromero/Expenses_App/blob/main/VERTICAL.gif).
 
 
-HORIZONTAL MODE:
+## HORIZONTAL MODE:
+
 ![GIF](https://github.com/edwromero/Expenses_App/blob/main/HORIZONTAL.gif).
